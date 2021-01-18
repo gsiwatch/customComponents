@@ -5,4 +5,4 @@ class Tooltip extends HTMLElement {
     }
 }
 
-customElements.define('gs-tooltip', Tooltip);
+customElements.define('gs-tooltip', Tooltip); // note: name has to be two words
